@@ -1,0 +1,6 @@
+streamlit
+pathlib
+langchain_community
+sqlalchemy
+langchain-groq
+langchain
